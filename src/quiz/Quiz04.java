@@ -1,6 +1,6 @@
 package quiz;
 
-public class Quzi04 {
+public class Quiz04 {
 
 	public static void main(String[] args) {
 		
