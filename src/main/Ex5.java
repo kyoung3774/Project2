@@ -20,6 +20,7 @@ public class Ex5 {
 		System.out.print("저는\"둘리\"입니다.");
 		
 		System.out.print("\n안녕하세요\t저는둘리입니다.");
+		System.out.print("\n안녕하세요\t저는둘리입니다.");
 	}
 
 }
