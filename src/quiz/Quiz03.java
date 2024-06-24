@@ -1,6 +1,6 @@
 package quiz;
 
-public class Quiz3 {
+public class Quiz03 {
 
 	public static void main(String[] args) {
 		int year = 2024;

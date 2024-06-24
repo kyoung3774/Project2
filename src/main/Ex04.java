@@ -1,6 +1,6 @@
 package main;
 
-public class Ex4 {
+public class Ex04 {
 
 	public static void main(String[] args) {
 		

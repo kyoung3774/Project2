@@ -1,6 +1,6 @@
 package quiz;
 
-public class Quiz2 {
+public class Quiz02 {
 
 	public static void main(String[] args) {
 		//int형 변수 gameLevel 선언
